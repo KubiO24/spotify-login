@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
 import { ReactComponent as SpotifyLogo } from 'assets/icons/spotify.svg';
-import { devices } from '../../styles/breakpoints';
+import { devices } from 'styles/breakpoints';
 
-import { fadeIn } from '../../styles/animations';
+import { fadeIn } from 'styles/animations';
 
 export const Header = styled.header`
   display: flex;

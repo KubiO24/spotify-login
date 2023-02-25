@@ -1,6 +1,6 @@
 import styled, { css } from "styled-components";
 
-import { ThemeData } from "../../styles/theme";
+import { ThemeData } from "styles/theme";
 
 export type ButtonVariants = "default" | "primary" | "secondary" | "facebook" | "apple" | "tertiary";
 
