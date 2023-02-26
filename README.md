@@ -26,7 +26,7 @@
 
 ## Live Preview
 
-[spotify-login-teal.vercel.app](https://spotify-login-teal.vercel.app/)
+[spotify-login-kubio24.vercel.app](https://spotify-login-kubio24.vercel.app/)
 
 
 ## Credits
