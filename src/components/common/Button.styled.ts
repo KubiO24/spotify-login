@@ -65,6 +65,6 @@ export const Link = styled.a`
     font-size: 1.6rem;
     &:hover {
         text-decoration: underline;
-        cursor: text;
+        cursor: pointer;
     }
 `;
