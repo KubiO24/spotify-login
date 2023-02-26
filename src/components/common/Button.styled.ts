@@ -23,7 +23,7 @@ const variantStyles = ({ palette }: ThemeData, variant: ButtonVariants = "defaul
         secondary: css`
             border: 1px solid ${palette.common.tertiary};
             background-color: transparent;
-            color: ${palette.common.secondary};
+            color: ${palette.common.tertiary};
         `,
         tertiary: css`
             background-color: ${palette.common.white};

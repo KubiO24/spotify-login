@@ -15,13 +15,13 @@ export interface ThemeData {
 export const theme: ThemeData = {
     palette: {
         common: {
-            facebookBlue: "#3b5998",
+            facebookBlue: "#1877F2",
             black: "#000000",
-            white: "#ffffff",
-            red: "#ba2010",
-            primary: "#18ac4d",
-            secondary: "#e8e6e3",
-            tertiary: "#a59d92",
+            white: "#FFFFFF",
+            red: "#BA2010",
+            primary: "#18AC4D",
+            secondary: "#E8E6E3",
+            tertiary: "#A59D92",
         },
     },
 };
