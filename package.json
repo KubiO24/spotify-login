@@ -9,9 +9,14 @@
         "preview": "vite preview"
     },
     "dependencies": {
+        "@hookform/resolvers": "^2.9.11",
+        "@types/react-icons": "^3.0.0",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
+        "react-hook-form": "^7.43.2",
+        "react-icons": "^4.7.1",
         "styled-components": "^5.3.6",
+        "vite-plugin-svgr": "^2.4.0",
         "vite-tsconfig-paths": "^4.0.5",
         "yup": "^1.0.0"
     },
